@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body
+{
+  background-image: url('./app/register/image/045.jpg');
+ background-position: center;
+}
+.regform
+{
+  background-color:#B3B3B3;
+}
